@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VahidKr
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in Front-End Web Development and Data Analytics.
+- 🌱 I’m currently learning Data Analysis basics.
 
 <!---
 VahidKr/VahidKr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
